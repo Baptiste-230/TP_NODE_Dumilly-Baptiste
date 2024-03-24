@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65b7c91fc58651a13c22a7a5"
+  },
+  "id": 1,
+  "username": "Baptiste",
+  "watchlists": [
+    "1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c0a108814f02d514e55b65"
+  },
+  "id": 2,
+  "username": "Coucou"
+},
+{
+  "_id": {
+    "$oid": "65c0a383b6bf13093769736d"
+  },
+  "id": 3,
+  "username": "Axel"
+},
+{
+  "_id": {
+    "$oid": "65c0a47eb6bf13093769736e"
+  },
+  "id": 4,
+  "username": "Thomas"
+},
+{
+  "_id": {
+    "$oid": "65c0c47f03829da39313b04a"
+  },
+  "id": 5,
+  "username": "Lucas"
+},
+{
+  "_id": {
+    "$oid": "65c1004cd48cbb1f5cd58b64"
+  },
+  "id": 6,
+  "username": "Battoun"
+},
+{
+  "_id": {
+    "$oid": "65c104ec1c02426cf08f3722"
+  },
+  "id": 7,
+  "username": "Luc"
+},
+{
+  "_id": {
+    "$oid": "65c1067467f7ae78efd85af8"
+  },
+  "id": 8,
+  "username": "Jules"
+},
+{
+  "_id": {
+    "$oid": "65f7f9af36e7a4f2e31e92eb"
+  },
+  "id": 9,
+  "username": "Victor"
+},
+{
+  "_id": {
+    "$oid": "65f8363d353b49dcd36d6b1d"
+  },
+  "id": 10,
+  "username": "Antonin"
+},
+{
+  "_id": {
+    "$oid": "65f8559a3f5f1f8dfbdeb9e5"
+  },
+  "id": 11,
+  "username": "Nathan"
+}]

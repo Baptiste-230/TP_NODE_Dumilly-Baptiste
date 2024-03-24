@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "65f814b4b7b389c0656edd09"
+  },
+  "id": 1,
+  "utilisateur": "Baptiste",
+  "utilisateurId": 1,
+  "nom": "test",
+  "items": [
+    {
+      "film": 5,
+      "titre": "coucou",
+      "etat": "vue"
+    },
+    {
+      "film": 1,
+      "titre": "interstelar",
+      "etat": "abandonné"
+    },
+    {
+      "film": 6,
+      "titre": "null",
+      "etat": "abandonné"
+    },
+    {
+      "film": 4,
+      "titre": "toy story",
+      "etat": "vue"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65f814d9b7b389c0656edd0a"
+  },
+  "id": 2,
+  "utilisateur": "Coucou",
+  "utilisateurId": 2,
+  "nom": "test2",
+  "items": []
+},
+{
+  "_id": {
+    "$oid": "65f82f5cfdc4e758a1e5fa66"
+  },
+  "id": 3,
+  "utilisateur": "Coucou",
+  "utilisateurId": 2,
+  "nom": "test52",
+  "items": []
+},
+{
+  "_id": {
+    "$oid": "65f830c9fdc4e758a1e5fa67"
+  },
+  "id": 4,
+  "utilisateur": "Baptiste",
+  "utilisateurId": 1,
+  "nom": "test52",
+  "items": []
+},
+{
+  "_id": {
+    "$oid": "65f8341bfdc4e758a1e5fa68"
+  },
+  "id": 5,
+  "utilisateur": "Lucas",
+  "utilisateurId": 5,
+  "nom": "science",
+  "items": []
+}]
